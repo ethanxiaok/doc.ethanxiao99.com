@@ -6,5 +6,5 @@
 
 [![stars](https://badgen.net/github/stars/Q-Angelo/Nodejs-Roadmap?icon=github&color=4ab8a1)](https://github.com/Q-Angelo/Nodejs-Roadmap) [![forks](https://badgen.net/github/forks/Q-Angelo/Nodejs-Roadmap?icon=github&color=4ab8a1)](https://github.com/Q-Angelo/Nodejs-Roadmap)
 
-[主站](https://www.ethanxiao99.com)
-[开始阅读](README.md)
+[主站](http://www.ethanxiao99.com)
+[开始阅读](/nav/newpage.md)
