@@ -1,4 +1,4 @@
-<img width="180px" style="border-radius: 50%" bor src="https://github.com/ethanxiaok/image/blob/master/image/carton12.jpg">
+<img width="180px" style="border-radius: 50%" bor src="https://gcore.jsdelivr.net/gh/ethanxiaok/image/image/carton12.jpg">
 
 # 我的学习文档
 
