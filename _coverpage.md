@@ -1,4 +1,4 @@
-<img width="180px" style="border-radius: 50%" bor src="https://cdn.jsdelivr.net/gh/ethanxiaok/image/image/gallery.jpg">
+<img width="180px" style="border-radius: 50%" bor src="https://cdn.jsdelivr.net/gh/ethanxiaok/image/image/touxiang.jpg">
 
 # Ethan
 
